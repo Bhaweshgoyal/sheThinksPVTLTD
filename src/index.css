@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+body {
+  margin: 0;
+  font-family: "Roboto";
+}
+
+.container-landingpage {
+  /* border: 2px solid !important; */
+  display: flex;
+  padding: 2px ;
+}
